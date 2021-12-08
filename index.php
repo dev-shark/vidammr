@@ -1,4 +1,3 @@
 <?php
-echo "hola mundo";
-echo "Estoy flipando"
+$file_handle = fopen('tmp.txt', 'w');
 ?>
