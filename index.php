@@ -16,6 +16,10 @@ function sum( $a , $b ){
 }
 
 
+function res( $a , $b ){
+	$res= $a - $b ;
+	return  $res ;
+}
 
 
 function pro( $a , $b ){
