@@ -28,6 +28,8 @@ function pro( $a , $b ){
 }
 
 echo sum(100,60);
-echo"\n";
+echo "\n";
 echo pro(5,5);
+echo "\n";
+echo res(100,87);
 ?>
