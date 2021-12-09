@@ -10,5 +10,20 @@ $myfile = fopen("tmp.txt", "r") or die("Unable to open file!");
 echo fread($myfile, filesize("tmp.txt"));
 fclose($myfile);
 
-echo "Este cambio es desde el iphone";
+function sum( $a , $b ){
+	$sum= $a + $b ;
+	return  $sum ;
+}
+
+
+
+
+function pro( $a , $b ){
+	$pro= $a * $b ;
+	return  $pro ;
+}
+
+echo sum(100,60);
+echo"\n";
+echo pro(5,5);
 ?>
