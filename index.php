@@ -9,4 +9,6 @@ fclose($file_handle);
 $myfile = fopen("tmp.txt", "r") or die("Unable to open file!");
 echo fread($myfile, filesize("tmp.txt"));
 fclose($myfile);
+
+echo "Este cambio es desde el iphone";
 ?>
