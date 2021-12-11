@@ -1,5 +1,4 @@
 <?php
-header('Content-type: text/plain');
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
@@ -29,8 +28,6 @@ function pro( $a , $b ){
 }
 
 echo sum(100,60);
-echo "\n";
 echo pro(5,5);
-echo "\n";
 echo res(100,87);
 ?>
