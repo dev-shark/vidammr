@@ -2,4 +2,4 @@
     "require": {
         "heroku/heroku-buildpack-php": "^203.0"
     }
-}    
+}

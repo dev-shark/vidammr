@@ -32,6 +32,11 @@ function division($a,$b){
 
 echo suma(100,60)."\n";
 echo resta(15,5)."\n";
+<<<<<<< HEAD
 echo multiplicacion(100,87)."\n";
 echo division(100,25)."\n";
+=======
+echo multiplicacion(100,87)"\n";
+echo division(100,25)"\n";
+>>>>>>> 7b5323c262253b6523da9dbd8249d666ce05a201
 ?>
