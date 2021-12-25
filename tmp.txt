@@ -1,0 +1,1 @@
+Hola mundo , este es contenido desde un archivo de texto.
