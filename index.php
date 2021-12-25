@@ -32,6 +32,6 @@ function division($a,$b){
 
 echo suma(100,60)."\n";
 echo resta(15,5)."\n";
-echo multiplicacion(100,87)"\n";
-echo division(100,25)"\n";
+echo multiplicacion(100,87)."\n";
+echo division(100,25)."\n";
 ?>
